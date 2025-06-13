@@ -1,0 +1,25 @@
+﻿  ex.c
+C:\Users\lenovo\Desktop\game\Project1\Project1\ex.c(139,57): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\lenovo\Desktop\game\Project1\Project1\ex.c(148,55): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\lenovo\Desktop\game\Project1\Project1\ex.c(169,2): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\lenovo\Desktop\game\Project1\Project1\ex.c(185,18): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\lenovo\Desktop\game\Project1\Project1\ex.c(209,44): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\lenovo\Desktop\game\Project1\Project1\ex.c(215,33): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\game\Project1\Project1\ex.c(215,50): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\game\Project1\Project1\ex.c(215,66): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\game\Project1\Project1\ex.c(215,82): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\game\Project1\Project1\ex.c(220,34): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\game\Project1\Project1\ex.c(220,51): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\game\Project1\Project1\ex.c(220,67): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\game\Project1\Project1\ex.c(220,83): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\game\Project1\Project1\ex.c(290,3): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\lenovo\Desktop\game\Project1\Project1\ex.c(293,3): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\lenovo\Desktop\game\Project1\Project1\ex.c(302,17): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\game\Project1\Project1\ex.c(303,17): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\game\Project1\Project1\ex.c(360,32): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\game\Project1\Project1\ex.c(361,32): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\game\Project1\Project1\ex.c(206,1): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\game\Project1\Project1\ex.c(207,1): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  Project1.vcxproj -> C:\Users\lenovo\Desktop\game\Project1\x64\Debug\Project1.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
